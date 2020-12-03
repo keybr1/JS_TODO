@@ -1,2 +1,2 @@
 # JS_TODO
-Functional programming
+Functional programming and non-functional
